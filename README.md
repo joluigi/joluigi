@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 - :computer: Currently I'm working in Data analysis for Digital Advertising such as Facebook Ads, Google Ads and Programmatic buying.
 
-- :heart: I'm passionate about machine learning and IA, (some projects will be updated soon in my profile)
+- :heart: I'm passionate about machine learning and IA. Currently, learning more in depth about this exciting topic
+
+Please, explore my projects and if you have any doubts let me know. I believe knowledge sharing is what makes us bigger.
 
 - 📫 You can reach me at: jolui334@gmail.com
 - 📫 My LinkedIn Profile: https://www.linkedin.com/in/joseluis-vazquez-jimenez/
