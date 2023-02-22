@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello Welcome to my Github profile!
 
 <!--
 **joluigi/joluigi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- :computer: Currently I'm working in Data analysis for Digital Advertising such as Facebook Ads, Google Ads and Programmatic buying.
+
+- :heart: I'm passionate about machine learning and IA, (some projects will be updated soon in my profile)
+
+- 📫 You can reach me at: jolui334@gmail.com
+- 📫 My LinkedIn Profile: https://www.linkedin.com/in/joseluis-vazquez-jimenez/
